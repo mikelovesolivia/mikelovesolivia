@@ -21,7 +21,7 @@ I am Yunfei (Mike) Lu!
 - 🌱 I’m currently learning multimodal learning and full stack development.
 - 🚀 I'm a keen learner and working on contributing more to the GitHub community.
 - 🌻 I’m looking to any internship opportunities in summer 2025.
-- 📫 How to reach me: just email me at [yunfeilu0112@gmail.com](mailto:yunfeily0112@gmail.com)
+- 📫 How to reach me: just email me at [yunfeilu0112@gmail.com](mailto:yunfeily0112@gmail.com).
 - 🚧 Here are some of my selected projects:
   - 🏠 [Personal Website](https://mikelovesolivia.github.io)
   - 🗒️ [Personal Blog built with Hexo](https://mikelovesolivia.github.io/blog)
