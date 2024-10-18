@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am Yunfei (Mike) Lu!
+
 - 🔭 I’m currently a PhD student working on deep learning for SciVis at University of Notre Dame.
 - 🌱 I’m currently learning multimodal learning and full stack development.
 - 🚀 I'm a keen learner and working on contributing more to the GitHub community.
